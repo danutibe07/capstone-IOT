@@ -1,0 +1,227 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Lato', sans-serif;
+}
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+a,
+li,
+button {
+  text-decoration: none;
+  outline: none;
+  list-style: none;
+}
+
+a{
+  color: #272a31;
+}
+
+header {
+  height: 80px;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  background-color: #fff;
+  box-shadow: rgba(0, 0, 0, 0.09) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px,
+    rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px,
+    rgba(0, 0, 0, 0.09) 0px 32px 16px;
+}
+.home {
+  background: url(./images/backgroundHeader.png);
+  width: 100%;
+  padding-left: 20%;
+height: 800px;
+}
+.title {
+  height: 40px;
+  text-align: center;
+  justify-content: center;
+  display: flex !important;
+  align-content: center;
+  align-items: center;
+  margin-top: 15px;
+  margin-left: 15px;
+  font-weight: 700;
+  font-size: 22px;
+}
+.home h3 {
+  font-size: 50px;
+  font-weight: lighter;
+  color: #ec5242;
+  padding-top: 40px;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+.home .banner h1 {
+  font-size: 10vh;
+  font-weight: bolder;
+  background-clip: unset;
+  -webkit-background-clip: text;
+  color: transparent;
+  background-image: url(images/textbg.jpg);
+  padding-left: 30px;
+  max-width: 830px;
+}
+.nav-menu {
+  display: flex;
+  flex-direction: row;
+  gap: 100px;
+  margin-top: 25px;
+  font-size: 15px;
+}
+
+.nav-menu .nav-menu-items:hover,
+.nav-menu .nav-menu-items:active,
+.nav-menu .nav-menu-items:focus {
+  cursor: pointer;
+  color: #ec5242;
+  font-size: 18px;
+}
+
+.nav-menu .nav-menu-items:hover,
+.nav-menu .nav-menu-items:active,
+.nav-menu .nav-menu-items:focus,
+.nav-menu .nav-menu-items a:hover,
+.nav-menu .nav-menu-items a:active,
+.nav-menu .nav-menu-items a:focus {
+  cursor: pointer;
+  color: #ec5242;
+  font-size: 18px;
+}
+
+
+.header-button {
+  margin-top: 15px;
+  height: 40px;
+  margin-right: 15px;
+  padding: 10px;
+  color: #ec5242;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset,
+    rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
+}
+
+.header-button:hover {
+  background-color: #ec5242;
+  color: #fff;
+  box-shadow: rgba(17, 17, 26, 0.1) 0px 8px 24px,
+    rgba(17, 17, 26, 0.1) 0px 16px 56px, rgba(17, 17, 26, 0.1) 0px 24px 80px;
+}
+.banner {
+  width: 100%;
+  height: 39vh;
+  justify-content: start;
+  align-items: left;
+  left: 0;
+  margin-top: 13vh;
+}
+
+.header-button {
+  border: 5px solid #ec5242;
+  padding: 5px;
+  font-size: 20px;
+  text-align: center;
+  align-content: center;
+  background-color: #fff;
+  margin-right: 100px;
+}
+
+.dateplace {
+  font-size: 30px;
+  color: #272a31;
+}
+
+.desc {
+
+    font-size: 20px;
+    color: #3c3f46;
+    background-color: #f7f7f8;
+    padding: 10px;
+    margin: 10px;
+    border: 4px solid #fff;
+    width: 60%;
+  }
+
+.dateplace {
+  display: flex;
+  flex-direction: column;
+  color: #3c3f46;
+  padding-left: 30px;
+  padding-right: 30px;
+  font-size: 18px;
+}
+
+.dateplace h3{
+  margin: 0;
+  padding: 0;
+  color: #3c3f46;
+  font-size: 30px;
+  font-weight: 700;
+}
+.program {
+  background-image: url(./Images/backgroundHeaderAbout.png);
+  background-color: #272a31;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 400px;
+}
+.cards {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+  width: 200px;
+  border: 3px solid green;
+  padding: 10px;
+  justify-content: center;
+  align-items: center;
+  background-color: #3c3f46;
+}
+
+.line {
+  color: #ec5242;
+  font-size: 20px;
+}
+
+.program h2{
+  color: #fff;
+}
+
+.program h4 {
+  color: #ec5242;
+  font-size: 16px;
+  min-width: 72px;
+}
+
+.program p {
+  font-size: 12px;
+  text-align: center;
+  color: #fff;
+}
+
+.program a{
+  color: #fff;
+  padding: 25px;
+  font-size: 18px;
+  text-decoration-line: overline;
+}
+
+.program a:hover{
+  color: #ec5242;
+  padding: 30px;
+  font-size: 22px;
+  text-decoration-line: underline;
+}
