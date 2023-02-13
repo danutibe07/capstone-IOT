@@ -34,7 +34,7 @@ header {
     rgba(0, 0, 0, 0.09) 0px 32px 16px;
 }
 .home {
-  background: url(./images/backgroundHeader.png);
+  background: url(./Images/backgroundHeader.png);
   width: 100%;
   padding-left: 20%;
 height: 800px;
@@ -65,7 +65,7 @@ height: 800px;
   background-clip: unset;
   -webkit-background-clip: text;
   color: transparent;
-  background-image: url(images/textbg.jpg);
+  background-image: url(Images/textbg.jpg);
   padding-left: 30px;
   max-width: 830px;
 }

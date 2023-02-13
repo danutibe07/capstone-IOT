@@ -4,28 +4,28 @@ const cards = [
     {
       id: "card-1",
       title: "Lecture",
-      imageSource: "./images/lecture1.png",
+      imageSource: "./Images/lecture1.png",
       desc: "Get opportunities to network with CC affilates around the world and also after the summit"         
     },
   
     {
       id: "card-2",
       title: "Exhibition",
-      imageSource: "./images/lecture2.png",
+      imageSource: "./Images/lecture2.png",
       desc: "Get opportunities to network with CC affilates around the world and also after the summit"     
     },
   
     {
       id: "card-3",
       title: "Forum",
-      imageSource: "./images/lecture3.png",
+      imageSource: "./Images/lecture3.png",
       desc: "Get opportunities to network with CC affilates around the world and also after the summit"     
     },
   
     {
       id: "card-4",
       title: "Workshop",
-      imageSource: "./images/lecture4.png",
+      imageSource: "./Images/lecture4.png",
       desc: "Get opportunities to network with CC affilates around the world and also after the summit"     
     
     },
@@ -33,7 +33,7 @@ const cards = [
     {
       id: "card-5",
       title: "IOT ignite",
-      imageSource: "./images/lecture5.png",
+      imageSource: "./Images/lecture5.png",
       desc: "Get opportunities to network with CC affilates around the world and also after the summit"     
     },
   ];
