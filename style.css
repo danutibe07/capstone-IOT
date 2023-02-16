@@ -240,11 +240,12 @@ li {
   display: flex;
   flex-direction: column;
   align-items: center;
-  padding: 20px 0;
+  padding: 20px 2px;
 }
 
 .speakers img {
-  width: 400px;
+  height: 170px;
+  width: 170px;
 }
 
 .speakers h3 {
@@ -258,7 +259,8 @@ li {
 }
 
 .speaker-description {
-  color: #272a31;
+  color: #333;
+  width: 300px;
 }
 
 .speaker-information {
@@ -274,6 +276,7 @@ li {
   justify-content: space-around;
   padding-left: 15px;
 }
+
 
 .speakers button:hover {
   border: 1px solid #ec5242;
