@@ -138,7 +138,6 @@ li {
   max-height: max-content;
 }
 
-
 .presentation-container h1 {
   font-size: 50px;
   font-weight: lighter;
@@ -652,7 +651,7 @@ footer {
   }
 
   .partner {
-    display: flex;
+    display: flex !important;
   }
 
   .button-speaker-action {
@@ -706,11 +705,7 @@ footer {
     background-color: transparent;
   }
 
-  .partner {
-    display: flex !important;
-  }
-
-  .footerimage{
+  .footerimage {
     color: #272a31;
   }
 }
