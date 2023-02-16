@@ -508,7 +508,15 @@ footer {
   padding-top: 30px;
 }
 
+.img-no {
+  display: none;
+}
+
 @media only screen and (min-width: 768px) {
+  .img-no {
+    display: flex;
+  }
+
   .nav-top-desktop {
     display: flex;
     justify-content: flex-end;
