@@ -61,7 +61,7 @@
 
 
 - [Live App Link](https://danutibe07.github.io/capstone-IOT/)
-- [Loom video link]()
+- [Loom video link](https://www.loom.com/share/47d3efa1cb414d59bd466293d52d3d3d)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
