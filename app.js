@@ -33,37 +33,37 @@ window.addEventListener('DOMContentLoaded', () => {
     closeWrap.addEventListener('click', wrapFunction);
     const speakers = [
       {
-        image: 'images/speaker1.png',
+        image: 'Images/speaker1.png',
         name: 'Kheng Newick',
         title: 'Professor of Entrepreneurial Microbiology Studies at Harvard School',
         description: 'Newick studies commons-based peer productions, and published his seminal book The Wealth of Network in 2006.',
       },
       {
-        image: 'images/speaker2.png',
+        image: 'Images/speaker2.png',
         name: 'Shaun Brien',
         title: 'Director of Cancer Centre Nabi and a board member of BC Korea',
         description: 'As the main venue for new studies production in Korea, Nabi promotes cross-disciplinary collaboration and understanding among science technology, cancer and biology.',
       },
       {
-        image: 'images/speaker3.png',
+        image: 'Images/speaker3.png',
         name: 'Lila Moon',
         title: 'Executive Director of the Science Journal',
         description: 'Lila Moon is the Executive Director of Science Journal, the nonprofit organization that operates Science. Science is freely available in 290 languages and used by nearly a billion people around the world every month.',
       },
       {
-        image: 'images/speaker4.png',
+        image: 'Images/speaker4.png',
         name: 'Edmund Moon',
         title: 'Executive Director of nature',
         description: 'Edmund Moon is help to bring science to Asia and is an outspoken advocate for the research and digital commons. In 2012 he was inducted into the inaugural class of the Journal (JJS) science Hall of Fame',
       },
       {
-        image: 'images/speaker5.png',
+        image: 'Images/speaker5.png',
         name: 'Hollie Jackson',
         title: 'President of Cell',
         description: 'European integration, science and participation of youth trough online as her major condern, Redas report outlining potential changes to EU copyright law was approved by the Parliament in July.',
       },
       {
-        image: 'images/speaker6.png',
+        image: 'Images/speaker6.png',
         name: 'Renier Brentjens',
         title: 'CEO of JABB, ex CEO of the Biotechnology foundation',
         description: 'Ryan had been leading open-source projects at the Biotechnology Foundation such as the open source movement.',
