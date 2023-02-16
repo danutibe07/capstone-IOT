@@ -1,32 +1,11 @@
 <a name="readme-top"></a>
 
-<!--
-HOW TO USE:
-This is an example of how you may give instructions on setting up your project locally.
+<div align="center">
 
-Modify this file to match your project and remove sections that don't apply.
+  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
+  <br/>
 
-REQUIRED SECTIONS:
-- Table of Contents
-- About the Project
-  - Built With
-  - Live Demo
-- Getting Started
-- Authors
-- Future Features
-- Contributing
-- Show your support
-- Acknowledgements
-- License
-
-OPTIONAL SECTIONS:
-- FAQ
-
-After you're finished please remove all the comments and instructions!
--->
 </div>
-
-<!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
 
@@ -39,141 +18,112 @@ After you're finished please remove all the comments and instructions!
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
   - [Install](#install)
-  <!-- - [Usage](#usage)
   - [Run tests](#run-tests)
-  - [Deployment](#triangular_flag_on_post-deployment) -->
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
-<!-- - [❓ FAQ (OPTIONAL)](#faq) -->
+- [❓ FAQ](#faq)
 - [📝 License](#license)
 
-<!-- PROJECT DESCRIPTION -->
+# 📖IOT program Page <a name="about-project"></a>
 
-# 📖 [Portolio] <a name="about-project"></a>
+> I built a webpage for an IOT program, using data from some journals and a design of [Cindy Shin](https://www.behance.net/adagio07).
 
-This Portfolio is a personal project which could help others understand how to parse a Figma design to create a UI, how to use Flexbox to place elements in the page, how to build a personal portfolio site and how to use images and backgrounds to enhance the look of the website.
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
-<!-- 
-> Describe the tech stack and include only the relevant sections that apply to your project. -->
+
+> The site was built with HTML , CSS and Javascript
 
 <details>
   <summary>Client</summary>
   <ul>
-    <li><a href="https://github.com/microverseinc/curriculum-html-css/blob/main/html5.md/">HTML & CSS</a></li>
+    <li><a href="https://www.javascript.com/">JavaScript</a></li>
   </ul>
 </details>
 
-<details>
-  <summary>Server</summary>
-  <ul>
-    <li><a href="https://github.com/microverseinc/curriculum-transversal-skills/blob/main/clean-code/linters.md">Linter.yml</a></li>
-  </ul>
-</details>
-<details>
-  <summary>Version Control </summary>
-  <ul>
-    <li><a href="https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/git_github_basics.md">Git & Github</a></li>
-  </ul>
-</details> 
-<!-- Features -->
+
 
 ### Key Features <a name="key-features"></a>
 
-<!-- > Describe between 1-3 key features of the application. -->
 
-- **[Includes_a_descriptive_readme_file]**
-- **[Has_Client_side_rendering]**
-- **[It_is_a_simple_application]**
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LIVE DEMO -->
-
-## 🚀 Live Demo <a name="live-demo" ></a>
-
-> Add a link to your deployed project.
-
-- [Live Demo Link](https://danutibe07.github.io/Portfolio/)
+- **The home page displays all the main informatio  about the program**
+- **The about page displays information about previous programs**
+- **It has a page for mobile version**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- GETTING STARTED -->
+
+## 🚀 Live Demo <a name="live-demo"></a>
+
+
+- [Live App Link](https://ingdavidtm.github.io/capstone-biotechnology/)
+- [Loom video link](https://www.loom.com/share/c988a08fa2d2490387077c10e816a6a3)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> A developer can use this project to run tests on various html&css files
 To get a local copy up and running, follow these steps.
-
-### Prerequisites
-
-In order to run this project you need:
-
-
-Example command:
-
-```sh
- npm install git
-```
-
 
 ### Setup
 
 Clone this repository to your desired folder:
 
-
-Example commands:
-
-```sh
+```
   cd my-folder
-  git clone https://github.com/danutibe07/Hello-Microverse-Project.git
+  git clone https://github.com/danutibe07/capstone-IOT.git
 ```
 
 ### Install
 
-Open this project with your desired browser
+Install this project with:
 
 
-Example command:
-
-```sh
-  code .
 ```
-<!-- AUTHORS -->
+cd capstone-biotechnology
+
+```
+
+### Usage
+
+To run the project run live version using VScode
+
+
+### Run tests
+
+This project doesn't have tests
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Daniel**
+
+👤 **Akpan Daniel**
 
 - GitHub: [@githubhandle](https://github.com/danutibe07)
 - Twitter: [@twitterhandle](https://twitter.com/Danielutibe07?t=2kvKPTZQ7IGCw2FugE9xCQ&s=09)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- FUTURE FEATURES -->
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
 
-- [ ] **[Access_to_Other_Projects]**
-- [ ] **[Content]**
-- [ ] **[Live_Project_Demo]**
+- [ ] **Other pages**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- CONTRIBUTING -->
 
 ## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -181,53 +131,36 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-<!-- > Write a message to encourage readers to support your project -->
-
-If you like this project please help share and if possible leave a star on it
+If you like this project, kindly give a start to support a greater and widespread reach
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-<!-- > Give credit to everyone who inspired your codebase. -->
-
-I would like to thank my coding partners and microverse
+I would like to thank [Cindy Shin in Behance](https://www.behance.net/adagio07) for original design idea.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- FAQ (optional) -->
 
-## ❓ FAQ (OPTIONAL) <a name="faq"></a>
-> Add at least 2 questions new developers would ask when they decide to use your project.
-- **[RESOURCES_used_for_writing_this_project]**
-```sh
- HTML
-```
-```sh
- CSS
-```
-```sh
- JAVASCRIPT
-```
-```sh
- GIT & GITHUB
-```
-```sh
-    LINTERS
-```
-- **[Tools_Used_for_this_project]**
-```sh
- VS CODE
-```
-```sh
- GOOGLE CHROME
-```
+## ❓ FAQ <a name="faq"></a>
 
-<!--MIT-SECTION -->
 
-## 📝LiCENSE MIT <a name="mit" ></a>
-- [MIT.MD](./LICENSE)
+- **Do i need node installed?**
+
+  - Yes you do
+
+- **Do i need internet Access**
+
+  - No
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+## 📝 License <a name="license"></a>
+
+This project is [MIT](./LICENSE) licensed.
+
+_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
