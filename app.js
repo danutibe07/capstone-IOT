@@ -1,5 +1,5 @@
 window.addEventListener('DOMContentLoaded', () => {
-  //about navbar
+  // about navbar
   function aboutFunction() {
     const wrapAbout = document.getElementById('nav-wrapper-about');
     const openWrapAbout = document.getElementById('wrapper-about');
@@ -19,7 +19,7 @@ window.addEventListener('DOMContentLoaded', () => {
     }
     imgHomeSetup.forEach((img) => { img.addEventListener('click', homeFunction); });
   }
-  //home navbar 
+  // home navbar
   function mainFunction() {
     const wrap = document.getElementById('nav-wrapper');
     const openWrap = document.getElementById('wrapper');
