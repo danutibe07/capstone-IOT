@@ -18,6 +18,7 @@
   margin: 0;
   padding: 0;
   font-family: 'Lato', sans-serif;
+  overflow-x: hidden;
 }
 
 .sponsors > * {
@@ -546,7 +547,7 @@ footer {
   .nav-wrapper-desktop img {
     width: 200px;
     height: 70px;
-    padding: 0 15%;
+    padding: 0 5%;
     cursor: pointer;
   }
 
