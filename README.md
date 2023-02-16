@@ -60,8 +60,8 @@
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 
-- [Live App Link](https://ingdavidtm.github.io/capstone-biotechnology/)
-- [Loom video link](https://www.loom.com/share/c988a08fa2d2490387077c10e816a6a3)
+- [Live App Link](https://danutibe07.github.io/capstone-IOT/)
+- [Loom video link]()
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
