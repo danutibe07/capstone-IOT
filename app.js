@@ -20,7 +20,7 @@ window.addEventListener('DOMContentLoaded', () => {
     imgHomeSetup.forEach((img) => { img.addEventListener('click', homeFunction); });
   }
   // home navbar
-  function mainFunction() {
+  function Navigation() {
     const wrap = document.getElementById('nav-wrapper');
     const openWrap = document.getElementById('wrapper');
     const closeWrap = document.getElementById('close-wrap');
@@ -104,6 +104,7 @@ window.addEventListener('DOMContentLoaded', () => {
 
         const img = document.createElement('img');
         img.src = speakers[i].image;
+        img.alt = speakers[i].name+" image";
         divSpeaker.appendChild(img);
 
         const divInfo = document.createElement('div');
@@ -154,7 +155,7 @@ window.addEventListener('DOMContentLoaded', () => {
   }
   const page = document.body.id;
   if (page === 'body') {
-    mainFunction();
+    Navigation();
   } else if (page === 'about') {
     aboutFunction();
   }
