@@ -62,15 +62,11 @@
     .nav-wrapper-desktop a:hover,
     .nav-wrapper-desktop a:focus {
       color: #ec5242;
-      transform: scale(1.2);
-    }
+      box-shadow: rgba(17, 17, 26, 0.1) 0px 1px 0px;   
+     }
   
     .nav-wrapper-desktop a:nth-child(6):hover {
       color: #ec5242;
-      border: 1px solid #ec5242;
-      padding: 5px;
-      border-radius: 5px;
-      transform: scale(1);
     }
   
     .presentation-container h3 {
