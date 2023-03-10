@@ -104,6 +104,7 @@ window.addEventListener('DOMContentLoaded', () => {
 
         const img = document.createElement('img');
         img.src = speakers[i].image;
+        img.alt = speakers[i].name+" image";
         divSpeaker.appendChild(img);
 
         const divInfo = document.createElement('div');
